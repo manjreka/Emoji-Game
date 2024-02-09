@@ -1,0 +1,18 @@
+.bg {
+  background-color: #9796f0;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  width: 100vw;
+}
+.score {
+  display: flex;
+}
+.logo {
+  display: flex;
+}
+.para {
+  margin: 5px;
+  align-self: center;
+}
